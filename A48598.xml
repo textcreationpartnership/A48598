@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the proceedings &amp; causes of complaint, between the undertakers with the Earle of Lindsey, in the levell of Fenns in Lincolnshire betwixt Bourne and Kine Eae, and the owners and commoners there</title>
+            <author>Lindsey, Robert Bertie, Earl of, 1582-1642.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48598</idno>
+            <idno type="STC">Wing L2330A</idno>
+            <idno type="STC">ESTC R217718</idno>
+            <idno type="EEBO-CITATION">99829367</idno>
+            <idno type="PROQUEST">99829367</idno>
+            <idno type="VID">33806</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1992:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the proceedings &amp; causes of complaint, between the undertakers with the Earle of Lindsey, in the levell of Fenns in Lincolnshire betwixt Bourne and Kine Eae, and the owners and commoners there</title>
+                  <author>Lindsey, Robert Bertie, Earl of, 1582-1642.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drainage --  England --  Lincolnshire --  Early works to 1800.</term>
+               <term>Fens, The (England) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33806:1" rendition="simple:additions"/>
+            <head>A RELATION OF THE Proceedings &amp; cauſes of complaint, BETWEEN The Vndertakers with the Earle of <hi>Lindſey,</hi> in the Levell of Fenns in Lincolnſhire betwixt Bourne and Kime Eae, AND The Owners and Commoners there.</head>
+            <div type="part">
+               <head>THe Und<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kers juſtifie their proceedings to be le<g ref="char:EOLhyphen"/>gall and honeſt.</head>
+               <p>The Owners and Commoners about nine yeares paſt, before a Committee of Parliament, (<hi>William
+<pb n="2" facs="tcp:33806:2"/>Ellis</hi> Eſquire being Chair-man) alledged the ille<g ref="char:EOLhyphen"/>gality of the Undertakers proceedings, which was referred to Law, and proved it a Project, maintain<g ref="char:EOLhyphen"/>ed and forced on by an Arbitrary Power, which matter of fact was examined.</p>
+               <p>Now to relate the Undertakers Allegations, and the Commoners replies for matter of Law, which was referred to Law.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Undertakers ſay,</hi> the land was decreed to them by Lawes of Sewers, to which Lawes they have the Kings Royall aſſent, ſo not alterable, but by Act of Parliament.</head>
+               <p>The Owners and Commoners ſay thoſe decrees were altogether illegall and corrupt, they having offered many tryals at Law, which the Undertakers refuſed and ſtopped,<note place="margin">Witneſſe the Orders.</note> by Orders of the Councel-Ta<g ref="char:EOLhyphen"/>ble before Parliament, and by Orders of the Lords Houſe ſince Parliament, untill the Houſe of Com<g ref="char:EOLhyphen"/>mons removed thoſe hinderances, and left the Law open to us, whereupon we had ſeverall Tryalls at Law againſt the Undertakers,<note n="*" place="margin">Witneſſe the Judgment.</note> wherein we had Judgement againſt them, if the decrees be illegall, the Royall Aſſent comfirms them, but as they are ſubject to alteration, by tryalls at Law, without a ſpeciall Act of Parliament.</p>
+               <p>The Royall Aſſent was promiſed before any Law or Decree made,<note place="margin">Witneſſe the Kings Letters.</note> ſo that the bargain was made at Court, before the contract in the Countrey.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:33806:2"/>
+               <head>
+                  <hi>The Undertakers ſay,</hi> they were poſſeſſed of <hi>14000.</hi> Acres of our Commons, by conſent and contract with the Owners and Commoners.</head>
+               <p>The Commoners ſay, they had no conſent, but of ſome twenty in many thouſands, ſome of which was gained by threats and impriſonments; they fur<g ref="char:EOLhyphen"/>ther deny any contract with the Undertakers, and deſire they may ſhew that contract they pretend, and declare how they came by it.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Undertakers ſay,</hi> the gentlemen Commiſsioners of Sewers were honeſt, diſcreet, knowing men, and would do nothing but what was legall, juſt, honeſt and equitable.</head>
+               <p>So ſay the Commoners, that many of them were honeſt; but yet not well knowing in that deſign of undertaking, the Commiſſion of Sewers mentioneth not ſuch a Creature or Officer, as an Undertaker, if that Commiſſion had been ſufficient for an Un<g ref="char:EOLhyphen"/>dertaker, the Acts made the 43. of <hi>Elizabeth,</hi> ch. 11. and the 4. of <hi>James</hi> ch. 8. and 13. which directs an Undertaker how to contract for the draining of drowned grounds, and improving waſts, was unne<g ref="char:EOLhyphen"/>ceſſary, but they were unwilling to be guided by a<g ref="char:EOLhyphen"/>ny juſt known Law,<note n="*" place="margin">Witneſſe the Verdict, which ſinds the Fens not hurtfully ſurrounded.</note> they at the firſt proceeded by a Jury of five and twenty honeſt men, which was ſomewhat legall, but the Juries Verdict not being
+<pb n="4" facs="tcp:33806:3"/>anſwerable to their expectation, the Undertakers left the Law, the old honeſt way, and ſtep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into by<g ref="char:EOLhyphen"/>waies, as thieves do that rob honeſt men,<note n="*" place="margin">Witneſſe the Deeds, i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ol<g ref="char:EOLhyphen"/>led in Chan<g ref="char:EOLhyphen"/>cery.</note> and firſt having bribed the King, with three thouſand A<g ref="char:EOLhyphen"/>cres of our Land, and the Lords of the Councell with other parcells thereof,<note n="*" place="margin">Witneſſe the Kings ſeverall Letters, and the L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ds Or<g ref="char:EOLhyphen"/>ders.</note> they gained the Kings ſeverall Letters, and the Lords Orders to direct the Commiſſioners of Sewers, (which Power and Acts of State, was got ſo much above Law, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> often cauſed Acts to be done by Commiſſioners contrary to Law, ſelling our lands where ſufficient diſtreſſe might have been taken) and thus they gained their decrees of Sewers,<note n="*" place="margin">Witneſſe the Commiſſion of Sewers and the Commiſſi<g ref="char:EOLhyphen"/>oners.</note> ſuch Commiſſioners as ſaw into the evill of their deſigne, and thereupon did not act as they expected, were put out of the Commiſſion of Sewers, and themſelves, ſervants and friends only continued in, whereby they became their own Law-makers.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Undertakers ſay,</hi> Drayning is a good work, and advantagious to the Common-wealth.</head>
+               <p>So ſay the Commoners, but their proceedings were illegall, as we have formerly proved, not ho<g ref="char:EOLhyphen"/>neſt, as we ſhall now prove; for they took the beſt ground and left the worſt, they judged ground worth a Mark the Acre to be let, hurtfully ſurroun<g ref="char:EOLhyphen"/>ded with water, they judged reed ground worth 40. <abbr>s.</abbr> the Acre in that condition hurtfully ſurroun<g ref="char:EOLhyphen"/>ded, which if it be alwayes dry, will not be worth
+<pb n="5" facs="tcp:33806:3"/>13. <abbr>s.</abbr> 4 <abbr>d.</abbr> the Acres they took halfe of many of the beſt Commons, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by their owne laws,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> by di<g ref="char:EOLhyphen"/>vers Witneſſes.</note> they ſhould a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the moſt have had but a third part; they have left the worſt part of the Levell to draine, and to take the leaſt part out of; we are willing and able to draine our own grounds that ſtand in need thereof, could we have been in<g ref="char:EOLhyphen"/>abled thereto by Law, or might we injoy our Com<g ref="char:EOLhyphen"/>mons in ſeverall, what the Law will not ſuffer us to doe to our owne, we hope ſtrangers ſhall not force, and be firſt ſerved, becauſe pretenders for the Common-wealths good, for their own ends, they deſtroyed the Navigation of our Townes, which the Commiſſion of Sewers ſpecially pro<g ref="char:EOLhyphen"/>vides for.</p>
+            </div>
+            <div type="part">
+               <head>The Undertakers deny their undertaking to be a project, and their proceedings arbitrary.</head>
+               <p>The Commoners ſay it is, and hath ſo proved it before the Committee, of which M. <hi>Ellis</hi> had the Chaire: they ſay, if their ground were as bad as they report,<note place="margin">Proved by Sir <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> propoſitions.</note> yet it ought to have been ſold to their beſt Chapman, which it was not; for Sir <hi>An<g ref="char:EOLhyphen"/>thony Thomas,</hi> and Sir <hi>William Ayl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe,</hi> with their conſiderable Adventurers would have undertaken to have drained the ſame Fenns for a fourth part,<note place="margin">Proved by the Clerks of Sew<g ref="char:EOLhyphen"/>ers and the Commiſſio<g ref="char:EOLhyphen"/>ners Orders.</note> the Commiſſioners of Sewers then not intending a<g ref="char:EOLhyphen"/>ny of them to be ſharers, nor being feared with the Kings Letters, or Lords of Councell Orders,
+<pb n="6" facs="tcp:33806:4"/>thought a fifth part ſufficient for the work doing, and would give Sir <hi>Anthony</hi> but 24. hours to con<g ref="char:EOLhyphen"/>ſider of their offer, thereupon they treated no fur<g ref="char:EOLhyphen"/>ther, Sir <hi>Robert Kellegrew,</hi> Sir <hi>William Kellegrew,</hi> and M. <hi>Robert Long</hi> being in the Countrey, and ſeeing the ground good, and the deſign advantagious, improved their intereſt at Court, of which they were Members,<note n="*" place="margin">Proved by the Kings Let<g ref="char:EOLhyphen"/>ters.</note> and gained the Kings Letters to commend them Undertakers to the Commiſſioners, but perceiving they could not make their bargain ſo advantagious as they deſired, ſeemingly declined to be Undertakers,<note n="*" place="margin">Proved by the Kings third Letter.</note> and gained the Kings Letter to commend the Earle of <hi>Lindſey</hi> a privy Counſellor, and Lord Lievtenant of our County to be ſole Un<g ref="char:EOLhyphen"/>dertaker,<note n="*" place="margin">Proved by Deeds inrolled in Chancery of bargain and ſale, wherein they three joyn with the Earle in the bribe to the Lords.</note> themſelves by a ſecret Contract having equall power and ſhare with him, hoping thereby with the Kings Letters, Councell-Table Orders, a promiſe of ſhares to ſome of the Commiſſioners, &amp; outing of others, to make the better bargaine for themſelves, and ſo did; for at the firſt proffer the Commiſſioners then ſitting, offered a third part of the ſame Lands, without conſent of the Owners and Commoners to the ſaid Earle, for draining of which Lands they would give to Sir <hi>Anthony Tho<g ref="char:EOLhyphen"/>mas</hi> but a fifth part: Court power, friendſhip, ſelf-intereſt, and complements, gained a freedome in the Commiſſioners to give away our Lands, That Sir <hi>Robert,</hi>
+                  <note place="margin">Proved by Sir <hi>Roberts</hi> Will. and the Deeds themſelves.</note> Sir <hi>William Kellegrew,</hi> and Mr. <hi>Long</hi> were ſe<g ref="char:EOLhyphen"/>cret Undertakers, witneſſe Sir <hi>Roberts</hi> laſt will and Teſtament, he dying before the contract made with
+<pb n="7" facs="tcp:33806:4"/>the Earle; wherein he gives to his two Sons, <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> &amp; <hi>Heary</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo hundred Acres of our Commons, a ſigne they had ſh<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed our Lands at Court, and made the Countrey Commiſſioners confirmers of their project, which two hundred Acres were ſold by the ſaid <hi>Thomas, Henry,</hi> Sir <hi>William</hi> and Mr. <hi>Long,</hi> to one Mr. <hi>Richard Read</hi> for twelve hundred pound, before the work of draining was begun, and Mr. <hi>Long</hi> ſold his ſhare to Sir <hi>Edward Heron,</hi> a Com<g ref="char:EOLhyphen"/>miſſioner before the work begun for fifteen hundred pound, and Sir <hi>Edward</hi> to be at all the charge of draining, Mr. <hi>Death</hi> bought ſome upon the ſame terms, their own acts witneſſe our grounds to be of ſome valew, before the draining, to bribe with, be<g ref="char:EOLhyphen"/>queath, and ſell other mens Lands, without a conſi<g ref="char:EOLhyphen"/>deration done or given for them, and to force on thoſe bribes, gifts, and bargaines by the Kings Let<g ref="char:EOLhyphen"/>ters, Councell-Table Orders,<note place="margin">Let all men judge.</note> and commanded Commiſſioners of Sewers, is a project and arbi<g ref="char:EOLhyphen"/>trary.</p>
+               <p>Again, the Commiſſioners being ſome of them in<g ref="char:EOLhyphen"/>tereſted for non-payment of a Tax of 13. <abbr>s.</abbr> 4. <abbr>d.</abbr> the Acre illegally ſet give the Undertaker half an Acre, which by their owne rates was worth 3. <abbr>l.</abbr> and ſo proportionable moſt of the 14000. Acres,<note place="margin">Proved by di<g ref="char:EOLhyphen"/>vers Witneſſes, and their De<g ref="char:EOLhyphen"/>crees.</note> and at the leaſt they had one Acre in three for three Marks, which Acre at their owne rates, as they ſold our Lands before hand, was worth 6. <abbr>l.</abbr> So that not on<g ref="char:EOLhyphen"/>ly thoſe that ſold the deſigne made a prey of us, but
+<pb n="8" facs="tcp:33806:5"/>thoſe that laid out any moneyes would have had for every 2. <abbr>l.</abbr> laid out 6. <abbr>l.</abbr> by their own rates, and as we value our lands 12. <abbr>l.</abbr> Thoſe who legally, peace<g ref="char:EOLhyphen"/>ably, and honeſtly oppoſed this their project carri<g ref="char:EOLhyphen"/>ed on by an arbitrary power,<note place="margin">Proved by the Meſſengers, Councell-Ta<g ref="char:EOLhyphen"/>ble Orders, and Cattle Witneſſes.</note> apprehending no<g ref="char:EOLhyphen"/>thing their own if this power prevailed, were fined, impriſoned, brought before the Councell-Table, threatned with Star-chamber Suits, continually vexed with Meſſengers, their Cattle driven away, ſold without recompence, denied all proceedings at Law, to mens utter undoing,<note n="*" place="margin">Proved by the bonds at the Counſell-Ta<g ref="char:EOLhyphen"/>ble, and the Earles, came Letter.</note> &amp; forced to enter into bonds, not to complaine but to the Commiſ<g ref="char:EOLhyphen"/>ſioners of Sewers, or Councell-Table, ſome in the abſence of the Earle and the intereſted Commiſſio<g ref="char:EOLhyphen"/>ners, complaining to the other Commiſſioners of ſome grievances, in hope of Juſtice in the abſence of their Lord and Maſter; there came a Letter ſubſcribed poſt, poſt, poſt haſt, from the Earle of <hi>Lindſey</hi> to the Commiſſioners, wherein he intima<g ref="char:EOLhyphen"/>ted, that he was well adviſed by Counſell at Law, that they had nothing to do in that buſineſſe, ſo knew we very well, but God knows we were bound from the Law, and ſo left remedileſſe, being onely to complaine to thoſe who neither could or would relieve us.</p>
+               <pb n="9" facs="tcp:33806:5"/>
+               <p>About <hi>June</hi> laſt, 1649, the Undertakers in the Earl of <hi>Lindſey</hi>'s Level petitioned this ho<g ref="char:EOLhyphen"/>nourable Parliament, and got ſome Sixteen Commoners, ſome of whom are ill-affected, others their Tenants, and ſuch a ſold the Commoners cattel, and are ſued by them; o<g ref="char:EOLhyphen"/>thers, ſuch as beat and wounded the Owners Tenants; and others that have no ſtock to put upon the Commons, To petition the Par<g ref="char:EOLhyphen"/>liament in the name of the Commoners, being 20000; which Petitions were referred to a Committee of Parliament, of which <hi>John Goodwin</hi> 
+                  <abbr>Eſq</abbr> is Chair-man. They and their Witneſſes have been heard.</p>
+               <p>We the Commoners, being many thouſands, that intruſted <hi>Thomas Hall</hi> and <hi>Nicholas Roe,</hi> Gent. about nine yeers ſince, to petition the honourable Houſe of Commons againſt the Project of under<g ref="char:EOLhyphen"/>taking in the Earl of <hi>Lindſey</hi>'s Level, illegally and tyrannically carried on; and having fully proved their Petition, by Evidences, and at the leaſt of a hundred Witneſſes, before the Committee of the honourable Houſe of Commons, of which <hi>William Ellis</hi> 
+                  <abbr>Eſq</abbr> was Chair-man, That the Houſe in their Remonſtrance dated <hi>June</hi> 10. 1643, having de<g ref="char:EOLhyphen"/>clared the taking of large quantities of Commons being taken from the Subjects by colour of the Statute of Improvements, and by abuſe of the Commiſſion of Sewers, without their conſents, and againſt it, amongſt other grievances, to be one, and with them to be the Root and growth
+<pb n="10" facs="tcp:33806:6"/>of miſchievous Deſignes, do much wonder, that theſe offenders, who have continued as they were enemies to the Publike Good and Peace of this Kingdom, ſhould come Eight yeers after us, and be heard before us; and that it ſhould be now a Queſtion, after ſuch proofs, Whether they, or we, who have continued ever faithful to the Par<g ref="char:EOLhyphen"/>liament, be moſt offenders.</p>
+               <p>The Commoners have witneſſed their re<g ref="char:EOLhyphen"/>ality and faithfulneſs to the Parliament, by venturing their lives and eſtates with them. There hath been abroad at once, in the Par<g ref="char:EOLhyphen"/>liaments ſervice, Volunteers, out of ſome of theſe Towns 100, ſome 60, ſome 40, ſome 20, ſome more, ſome leſs; and the Country upon all occaſions ready to riſe againſt the Parliaments Enemies. Few or none ſerved the King, but thoſe that were engaged by the Undertakers.</p>
+               <p>Sir <hi>Edward Heron</hi>'s eldeſt ſon, having an in<g ref="char:EOLhyphen"/>tereſt in the Undertaking, and being a Colo<g ref="char:EOLhyphen"/>nel of the Kings part, brought down twenty Colours of Horſe and Dragoons againſt thoſe Towns intereſted in the mentioned Com<g ref="char:EOLhyphen"/>mons, who killed and wounded divers of the Commoners, that roſe to oppoſe their entring into their Country; and drove away thou<g ref="char:EOLhyphen"/>ſands of their horſes and other cattel, to their utter undoing. If theſe our enemies be again brought amongſt us, we muſt expect no mer<g ref="char:EOLhyphen"/>cy from them.</p>
+               <pb n="11" facs="tcp:33806:6"/>
+               <p>We hope the Parliament will continue their wonted goodneſs towards us, and not hear them whom they have formerly refuſed to hear, upon the ſame pretences, we mean, to matter of poſſeſ<g ref="char:EOLhyphen"/>ſion,<note place="margin">
+                     <hi>Witneſs</hi> Mr Waltounds <hi>Order, dated</hi> Auguſt 13. 1641.</note> as appeareth by the former Orders of the Houſe; they onely plotting hereby, if poſſible, to render the Parliament as diſtaſtful to the peo<g ref="char:EOLhyphen"/>ple, by entertaining their Projects, as was the late King. We that have hazarded our lives and eſtates, without recompence, hope we ſhall enjoy what we can maintain to be our own by Law. And we deſire the Undertakers may be referred, as formerly upon the like complaint, to the Law for remedy, where we will anſwer them in fair Trials. Let us, who have been ſuffering friends, be firſt relieved; and then be as merciful to your and our enemies, as poſſibly you can in Juſtice.</p>
+               <p>We deſire Maſter <hi>Ellis</hi> may report our firſt Proofs to the Houſe, concerning matter of Crime; that for our Impriſonments, Wound<g ref="char:EOLhyphen"/>ings, and Loſſes, we may receive recompence: the Troubles coming on ſo faſt, that he could not formerly do it.</p>
+               <p>But if, notwithſtanding all we ſay, and have proved formerly, we muſt at our great charge anſwer their laſt Petitions; we thus reply.</p>
+               <p>The Undertakers ſay they were legally and quietly poſſeſſed of 14000 Acres of our Com<g ref="char:EOLhyphen"/>mons, almoſt three yeers.</p>
+               <p>We deny it, and ſay, We have continued,<note place="margin">Proved by di<g ref="char:EOLhyphen"/>vers Witneſſes, and Trials at Law.</note> and
+<pb n="12" facs="tcp:33806:7"/>hitherto enjoyed our ancient poſſeſſions legally, though they by their arbitrary power would have forced us out, and did plow ſome of our Grounds by that power, notwithſtanding we diſ<g ref="char:EOLhyphen"/>charged them.</p>
+               <p>They ſay, There will be a benefit to the State and Commonwealth by their Compoſi<g ref="char:EOLhyphen"/>tions.</p>
+               <p>We ſay, It is an abuſe to a flouriſhing, reform<g ref="char:EOLhyphen"/>ing, juſt State, to make them ſo neceſſitous, as to tell them they can be bettered by a Project, or an Intereſt gained by an arbitrary power, otherwiſe then to return what was ſo taken away to the right owners.</p>
+               <p>They the Undertakers ſay, The Com<g ref="char:EOLhyphen"/>moners declined the juſtice of the Houſe, and violently entred upon their Grounds, and deſtroyed their Corn, and pulled down their Houſes.</p>
+               <p>We deſire they may name thoſe that did it: for we the chiefeſt of the Owners and Com<g ref="char:EOLhyphen"/>moners that petitioned the Houſe of Commons, ſay, We were no ways guilty of thoſe acts; but juſtly and legally continued, maintained, and re<g ref="char:EOLhyphen"/>covered our poſſeſſions<note n="*" place="margin">Witneſs the Houſe of Com<g ref="char:EOLhyphen"/>mons Order, da<g ref="char:EOLhyphen"/>ted <hi>July 10, 1641.</hi> and Sir <hi>Guy Palmes,</hi> his report there<g ref="char:EOLhyphen"/>of.</note>. We have ever ſtood for the Priviledge of the Houſe of Commons againſt the Lords Houſe, and never declined their Juſtice; which the Undertakers have: for during our
+<pb n="13" facs="tcp:33806:7"/>Cauſe depending in the Houſe of Commons, they petitioned the Houſe of Lords, preferred Bills, and gained their Order from thence, where<g ref="char:EOLhyphen"/>by they perplexed us with Meſſengers, Impriſon<g ref="char:EOLhyphen"/>ments, driving, killing and chaſing our Cattel in a riotous and tumultuous manner, deſperately wounding many of the Commoners with Guns and Swords, by French, Dutch, and wandring ſtrangers to great numbers, and procured Orders to ſtay our proceedings at Law;<note n="*" place="margin">Witneſs <hi>Mr Liſter,</hi> and the reſt of the Gen<g ref="char:EOLhyphen"/>tlemen.</note> the honeſt Gen<g ref="char:EOLhyphen"/>tlemen of the Country were put out of the Com<g ref="char:EOLhyphen"/>miſſion of the Peace, and their friends put in; and Sir <hi>Edward Heron,</hi> a Commiſſioner of Sewers, and a ſharer with the Undertakers, was made high Sheriff; who violently executed the Lords Orders: And all this was done when our Petiti<g ref="char:EOLhyphen"/>on was proving, and they defending,<note place="margin">Proved by Wit<g ref="char:EOLhyphen"/>eſſes.</note> in the Houſe of Commons.</p>
+               <p>Thoſe that pulled down their houſes and gathe<g ref="char:EOLhyphen"/>red their corn growing and ſtanding upon their Commons, ſay, they were provoked thereto by the Undertakers and their Agents, they conti<g ref="char:EOLhyphen"/>nuing by power of the Lords Order to plow the poor Commoners ground, after they had diſ<g ref="char:EOLhyphen"/>charged them thereof, and by thoſe wandring ſtrangers before named in a tumultuous and warlike manner, ſome armed on horſeback, others a foot, great Guns mounted upon Carriages, to force them out of their poſſeſſions, by wounding ſome of the Commoners, and worrying their Cat<g ref="char:EOLhyphen"/>tell with Doggs, and driving ſome of them away in the night, and ſelling them, and refuſing to obey
+<pb n="14" facs="tcp:33806:8"/>Replevin, and reſcued their own Goods when impounded; and the honeſt Gentlemen of the Country being put out of the Commiſſion of the Peace,<note place="margin">So ill did arbi<g ref="char:EOLhyphen"/>trary power re<g ref="char:EOLhyphen"/>liſh with the People.</note> and their Friends, ſtrangers, put in, with other injuſtice and violence done to them, the poor Commoners or Cottagers with ſtrangers, being of weak capacity and underſtanding, but what they felt and ſaw, and fearing a power com<g ref="char:EOLhyphen"/>ing upon them to deſtroy and ruine them, pulled down thoſe houſes that were forcibly built upon their Commons, and harboured thoſe ſtrangers and Arms they ſuffered by, which Houſes was ſtanding untill ſuch their uſage, and ſome Tryals had at Law which proved the Decrees illegall, for which Act of theirs they have been fined and impriſoned, and hope they ſhall not be twice pu<g ref="char:EOLhyphen"/>niſhed for one crime; the manner and not the matter being the fault.</p>
+            </div>
+            <div type="part">
+               <head>The Undertakers ſay, A good done, de<g ref="char:EOLhyphen"/>ſerves Encouragement and a Reward.</head>
+               <p>So ſay the Commoners, if legally and honeſt<g ref="char:EOLhyphen"/>ly done: But they ſay, To cure a diſeaſed man by cutting his throat, is a remedie rewardleſſe; or to doe good in an evill manner, is both by the Law of God and man unwarrantable, and without re<g ref="char:EOLhyphen"/>compence: The undertakers by a pretended good to the Common-wealth, taking our lands by an Arbitrarie power contrary to Law, though it ac<g ref="char:EOLhyphen"/>cidentally prove a good to ſome, yet it ſtrangles the Law, the Common-wealths life, and deſerves no other reward then he that cureth a diſeaſe by
+<pb n="15" facs="tcp:33806:8"/>throat-cutting: if one may deſign the uſe of ano<g ref="char:EOLhyphen"/>thers intereſt, proprietie is loſt. This Project of Drayning was condemned in a Parliament <hi>prime Jacobi,</hi> and thrown out of the Houſe of Commons with diſgrace. Some moved that Sir <hi>Miles Sands</hi> might have ſatisfaction for the money he laid out: Sir <hi>Edward Cock</hi> replyed, Let thoſe pay him, that ſet him a work; and further added, That it was juſt that Sir <hi>Miles Sands</hi> ſhould pay dammages to the oppreſſed and injured Coun<g ref="char:EOLhyphen"/>tries, for trying experiments of other mens lands, without and againſt their conſents.</p>
+               <p>The Earl of <hi>Lincoln</hi> in Queen <hi>Elizabeths</hi> daies procured a Commiſſion for drayning ſome of the Fens in queſtion, and pretended the work was publike, honourable, feizable, and profitable, and that the people deſired it; but when the Lord <hi>Willoughby</hi> of <hi>Erby</hi> for the Countrie, remonſtra<g ref="char:EOLhyphen"/>ted the contrary to the Queen, ſhe in great paſſi<g ref="char:EOLhyphen"/>on, reſumed her Commiſſion, and left the Coun<g ref="char:EOLhyphen"/>trie at libertie to drain themſelves.</p>
+               <p>Which liberty we hope we ſhall ſtill enjoy, be<g ref="char:EOLhyphen"/>ing willing to advance the Publike in any way we ſhall be inabled to by Law, we having former<g ref="char:EOLhyphen"/>ly been interrupted in ſcowring of our ancient Draines and Sewers by that project of Under<g ref="char:EOLhyphen"/>taking.</p>
+               <p>Such petitions as are now preferred for the car<g ref="char:EOLhyphen"/>rying on of the Earl of <hi>Lindſeys</hi> undertaking, we the Owners there doe proteſt againſt, knowing them to be ſigned only by poor people, who have no Intereſt there but under us, whoſe hands were indirectly gained by two Alehouſe-keep<g ref="char:EOLhyphen"/>ers,
+<pb n="16" facs="tcp:33806:9"/>who went from towne to towne, and houſe to houſe to gain thoſe hands.</p>
+               <p>Such Petitions as are for Stinting of our Com<g ref="char:EOLhyphen"/>mons, we declared our willingneſſe to in the Countrie, but could not ſee the Petitions, ſo that it was but a pretence to carry on the Undertakers deſign, in rendring us to the Poor, and others, as Oppreſſors of the Commons of the Country.</p>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>MICAH 2.1, 2, 3, 4, 5.</hi>
+                     </bibl>
+                     <p>Wo to them that deviſe iniquity, and work evil upon their beds: when the morning is light, they practiſe it, becauſe it is in the power of their hand. And they covet fields, and take them by violence; and houſes, and take them away: ſo they oppreſs a man and his houſe, even a man and his heritage. Therefore thus ſaith the Lord, Behold, againſt this family do I deviſe an evil, from which ye ſhall not re<g ref="char:EOLhyphen"/>move your necks, neither ſhall ye go haughtily: for this time is evil. In that day ſhall one take up a parable againſt you, and lament with a doleful lamentation, and ſay, We be utterly ſpoiled: he hath changed the portion of my peo<g ref="char:EOLhyphen"/>ple: how hath he removed it from me? turning away, be hath divided our fields. Therefore thou ſhalt have none that ſhall caſt a cord by lot in the congregation of the Lord.</p>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33806:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
